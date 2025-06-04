@@ -6,3 +6,9 @@ neo4j==5.27.0
 streamlit==1.35.0
 langchainhub==0.1.21
 langchain-neo4j==0.1.1
+
+
+python-dotenv==1.0.1
+langchain-community==0.3.9
+textblob==0.18.0.post0
+nltk==3.8.1
