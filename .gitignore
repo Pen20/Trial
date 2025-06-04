@@ -1,7 +1,6 @@
 .env
 .venv
 .DS_Store
-
 .venv/bin/activate.csh
 __pycache__/agent.cpython-312.pyc
 __pycache__/graph.cpython-312.pyc
@@ -9,3 +8,5 @@ __pycache__/llm.cpython-312.pyc
 __pycache__/utils.cpython-312.pyc
 .streamlit/secrets.toml
 tools/__pycache__/vector.cpython-312.pyc
+.gitattributes
+.gitignore
